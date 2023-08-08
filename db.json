@@ -1,0 +1,32 @@
+{
+  "posts": [
+    {
+      "firstname": "sahil",
+      "lastname": "patil",
+      "birthdate": "2000-10-19",
+      "gender": "m",
+      "education": "post graduate",
+      "company": "tcs",
+      "jobExperience": 2,
+      "salary": 6,
+      "profile": "profile_img2.jpg",
+      "id": 3
+    },
+    {
+      "firstname": "adarsh",
+      "lastname": "agrawal",
+      "birthdate": "2000-12-19",
+      "gender": "m",
+      "education": "M.C.A",
+      "company": "Wipro",
+      "jobExperience": 1,
+      "salary": 3,
+      "profile": "profile_img1.jpg",
+      "id": 4
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
